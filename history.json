@@ -1,0 +1,683 @@
+{
+  "title": "The history of the Doppler effect",
+  "tagline": "From horn players on a Dutch train in 1845 to weather radar, heart scans and the discovery that the universe is expanding.",
+  "intro": "In 1842 Christian Doppler argued that a wave's pitch or colour must change when its source moves. Three years later a train full of horn players proved him right for sound. It took longer for light, but shifted lines in starlight went on to reveal the speeds of stars, hidden planets and the expansion of the universe, while radar and ultrasound turned the same idea into a speedometer for cars, storms and blood.",
+  "eras": [
+    {
+      "id": "idea",
+      "name": "An idea and a train",
+      "from": 1842,
+      "to": 1860,
+      "color": "#ffb547",
+      "summary": "Doppler states the principle, Buys Ballot tests it with musicians on a train, and Fizeau shows how to use it on starlight."
+    },
+    {
+      "id": "stars",
+      "name": "Starlight and shock waves",
+      "from": 1860,
+      "to": 1930,
+      "color": "#c49bff",
+      "summary": "Astronomers measure the speeds of stars and galaxies from shifted spectral lines, and Mach photographs what happens beyond the speed of sound."
+    },
+    {
+      "id": "tools",
+      "name": "A speedometer for everything",
+      "from": 1930,
+      "to": 1990,
+      "color": "#5ce1a9",
+      "summary": "Radar, ultrasound and satellites turn the Doppler shift into a measuring tool for traffic, hearts, storms and navigation."
+    },
+    {
+      "id": "today",
+      "name": "Planets and storms",
+      "from": 1990,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Tiny Doppler wobbles reveal planets round other stars, and Doppler weather radars spread across the world."
+    }
+  ],
+  "events": [
+    {
+      "year": 1842,
+      "date": "25 May 1842",
+      "era": "idea",
+      "art": "telescope",
+      "key": true,
+      "title": "A professor wonders why stars have colours",
+      "who": "Christian Doppler",
+      "where": "Prague, Bohemia",
+      "country": "Czech Republic",
+      "text": "Christian Doppler told the Royal Bohemian Society of Sciences that a wave's frequency must change when its source or its observer moves. He published it as “On the coloured light of the binary stars”. His reasoning about waves was right. His guess that it explains star colours was wrong: stars move far too slowly for that.",
+      "why": "It was the first statement of the effect that now carries his name.",
+      "box": "idea",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": 1845,
+      "date": "June 1845",
+      "era": "idea",
+      "art": "notes",
+      "key": true,
+      "title": "Horn players on a train test it",
+      "who": "C. H. D. Buys Ballot",
+      "where": "Between Utrecht and Maarssen",
+      "country": "Netherlands",
+      "text": "Buys Ballot doubted Doppler, so he put horn players on an open railway wagon and musicians with trained ears beside the track. As the train passed, the listeners wrote down the notes they heard. The note was higher coming and lower going, as Doppler had said. KNMI gives the date as 3 June 1845; accounts differ on the details.",
+      "why": "It was the first experiment to confirm the Doppler effect, and it used sound, not light.",
+      "box": "passby",
+      "sources": [
+        3,
+        4,
+        2
+      ]
+    },
+    {
+      "year": 1848,
+      "date": "1848",
+      "era": "idea",
+      "art": "lens",
+      "key": false,
+      "title": "Look at the lines, not the colour",
+      "who": "Hippolyte Fizeau",
+      "where": "Paris",
+      "country": "France",
+      "text": "Fizeau worked out the same effect for light on his own. He saw what Doppler had missed: a star's overall colour barely changes, but the sharp dark lines in its spectrum should slide to new wavelengths. In French the effect is still called Doppler–Fizeau. The same year the Scottish engineer John Scott Russell reported the shift in the sound of passing trains.",
+      "why": "Shifted spectral lines became the way astronomers measure speed.",
+      "box": "sky",
+      "sources": [
+        5,
+        6,
+        0
+      ]
+    },
+    {
+      "year": 1868,
+      "date": "1868",
+      "era": "stars",
+      "art": "telescope",
+      "key": true,
+      "title": "The first speed of a star",
+      "who": "William Huggins",
+      "where": "Tulse Hill, London",
+      "country": "United Kingdom",
+      "text": "Huggins compared a line in the spectrum of Sirius with the same line made in his laboratory and judged that the star was moving away from the Sun. It was the first attempt to measure a star's speed along the line of sight. His number was rough. In 1871 Hermann Vogel measured the effect more surely, in light from the two edges of the spinning Sun.",
+      "why": "It turned Fizeau's idea into a working tool of astronomy.",
+      "box": "sky",
+      "sources": [
+        7,
+        6
+      ]
+    },
+    {
+      "year": 1887,
+      "date": "1887",
+      "era": "stars",
+      "art": "flash",
+      "key": true,
+      "title": "A bullet's shock wave is photographed",
+      "who": "Ernst Mach and Peter Salcher",
+      "where": "Prague and Fiume (now Rijeka)",
+      "country": "Croatia",
+      "text": "Using an electric spark as a flash, Mach and Salcher photographed a bullet flying faster than sound. The picture showed a V-shaped wave trailing from its tip, just as the geometry of piled-up wavefronts predicts. In 1929 the engineer Jakob Ackeret named the ratio of speed to the speed of sound the Mach number.",
+      "why": "It showed what happens when a source outruns its own waves.",
+      "box": "limits",
+      "sources": [
+        9,
+        8
+      ]
+    },
+    {
+      "year": 1900,
+      "date": "1900",
+      "era": "stars",
+      "art": "aperture",
+      "key": false,
+      "title": "Light's Doppler shift is caught in a laboratory",
+      "who": "Aristarkh Belopolsky",
+      "where": "Pulkovo Observatory, St Petersburg",
+      "country": "Russia",
+      "text": "Some physicists still doubted that the effect applied to light at all. Belopolsky built a machine of fast-spinning mirrors that bounced a beam of light back and forth, and measured the tiny shift in its spectral lines.",
+      "why": "It settled the matter on the laboratory bench, not just in the sky.",
+      "box": "limits",
+      "sources": [
+        10,
+        6
+      ]
+    },
+    {
+      "year": 1912,
+      "date": "September 1912",
+      "era": "stars",
+      "art": "night",
+      "key": true,
+      "title": "Andromeda is rushing towards us",
+      "who": "Vesto Slipher",
+      "where": "Lowell Observatory, Flagstaff, Arizona",
+      "country": "United States",
+      "text": "Slipher took the first good spectrum of the Andromeda nebula and found its lines shifted to the blue: it is approaching at about 300 km/s, faster than anything measured before. He kept going. By 1917 he had 25 spiral nebulae, and 21 of them were redshifted, moving away.",
+      "why": "Those redshifts were the first evidence that the universe is expanding.",
+      "box": "sky",
+      "sources": [
+        11,
+        31,
+        6
+      ]
+    },
+    {
+      "year": 1929,
+      "date": "1927 and 1929",
+      "era": "stars",
+      "art": "blackhole",
+      "key": true,
+      "title": "The farther, the faster",
+      "who": "Georges Lemaître and Edwin Hubble",
+      "where": "Leuven, Belgium, and Mount Wilson, California",
+      "country": "United States",
+      "text": "Lemaître showed in 1927 that an expanding universe gives a galaxy a speed proportional to its distance. In 1929 Hubble combined Slipher's redshifts with distances based on Henrietta Leavitt's variable stars and found the same straight line. His slope was about 500 km/s per megaparsec, seven times today's value, because the distances were wrong.",
+      "why": "It is the main evidence that space itself is expanding.",
+      "box": "sky",
+      "sources": [
+        12,
+        6
+      ]
+    },
+    {
+      "year": 1938,
+      "date": "1938",
+      "era": "tools",
+      "art": "atomspin",
+      "key": false,
+      "title": "Fast atoms confirm Einstein's version",
+      "who": "Herbert Ives and G. R. Stilwell",
+      "where": "Bell Telephone Laboratories, New York",
+      "country": "United States",
+      "text": "Ives and Stilwell measured the light from hydrogen ions moving at high speed, looking both with and against their motion. The average of the two shifts was not zero. It was off by exactly the amount that a slowed-down moving clock would cause.",
+      "why": "It was the first direct test of time dilation, the extra ingredient in the Doppler effect for light.",
+      "box": "limits",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1947,
+      "date": "14 October 1947",
+      "era": "tools",
+      "art": "plane",
+      "key": false,
+      "title": "A pilot outruns his own sound",
+      "who": "Chuck Yeager",
+      "where": "Above Muroc, California",
+      "country": "United States",
+      "text": "Flying the rocket-powered Bell X-1, Yeager reached Mach 1.06, the first piloted flight faster than sound in level flight. People on the ground heard the sonic boom of the shock cone.",
+      "why": "It proved an aircraft could pass through the pile-up of waves at Mach 1 and fly on.",
+      "box": "limits",
+      "sources": [
+        30,
+        15
+      ]
+    },
+    {
+      "year": 1949,
+      "date": "1947–1949",
+      "era": "tools",
+      "art": "speedo",
+      "key": true,
+      "title": "Radar starts catching speeders",
+      "who": "John L. Barker Sr. and Ben Midlock",
+      "where": "Glastonbury, Connecticut",
+      "country": "United States",
+      "text": "Barker and Midlock had built a Doppler radar in wartime to measure how fast aircraft touched down. Afterwards they pointed it at cars. Connecticut's state police tried it in Glastonbury in 1947, and from February 1949 wrote speeding tickets from its readings.",
+      "why": "The Doppler effect became an everyday measuring tool, later used on cricket balls and tennis serves too.",
+      "box": "echo",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1955,
+      "date": "December 1955",
+      "era": "tools",
+      "art": "heart",
+      "key": true,
+      "title": "Ultrasound listens to a beating heart",
+      "who": "Shigeo Satomura",
+      "where": "Osaka University",
+      "country": "Japan",
+      "text": "Satomura, a physicist, showed that ultrasound of about 3 MHz bounced off a moving heart comes back Doppler-shifted. Working with cardiologists, he went on to pick up the signal of blood flowing in vessels.",
+      "why": "It began Doppler ultrasound, which measures the speed and direction of blood flow.",
+      "box": "echo",
+      "sources": [
+        17,
+        27
+      ]
+    },
+    {
+      "year": 1957,
+      "date": "October 1957",
+      "era": "tools",
+      "art": "orbit",
+      "key": false,
+      "title": "Sputnik's beeps reveal its orbit",
+      "who": "William Guier and George Weiffenbach",
+      "where": "Applied Physics Laboratory, Maryland",
+      "country": "United States",
+      "text": "Days after Sputnik's launch, two physicists tracked the changing pitch of its radio signal as it passed overhead and worked out its orbit from the Doppler curve alone. Turn the idea round, and a known orbit tells you where you are. The Transit navigation satellites, flying from 1960 and in naval service from 1964, did just that.",
+      "why": "It was the first satellite navigation, the forerunner of GPS.",
+      "box": "passby",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 1973,
+      "date": "May 1973",
+      "era": "tools",
+      "art": "wind",
+      "key": false,
+      "title": "Radar watches a tornado being born",
+      "who": "National Severe Storms Laboratory",
+      "where": "Union City, Oklahoma",
+      "country": "United States",
+      "text": "A research Doppler radar followed a tornado through its whole life and saw rotation high in the cloud before the funnel touched the ground. The United States went on to build its NEXRAD network of Doppler weather radars from 1988.",
+      "why": "Seeing the wind inside storms gave forecasters minutes of warning.",
+      "box": "sky",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "1975",
+      "era": "tools",
+      "art": "snowflake",
+      "key": false,
+      "title": "Cooling atoms with their own Doppler shift",
+      "who": "Theodor Hänsch and Arthur Schawlow; David Wineland and Hans Dehmelt",
+      "where": "Stanford and Seattle",
+      "country": "United States",
+      "text": "Two teams proposed tuning a laser just below an atom's colour. An atom moving towards the beam sees the light shifted up to the right colour, absorbs it and is slowed. Steven Chu's group made it work in 1985, and the 1997 Nobel Prize in Physics went to Chu, Claude Cohen-Tannoudji and William Phillips for laser cooling.",
+      "why": "It chills atoms to millionths of a degree above absolute zero, for the best atomic clocks.",
+      "box": "limits",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1982,
+      "date": "1982",
+      "era": "tools",
+      "art": "vessels",
+      "key": false,
+      "title": "Blood flow in colour",
+      "who": "Koroku Namekawa, Chihiro Kasai and colleagues, Aloka",
+      "where": "Tokyo",
+      "country": "Japan",
+      "text": "Engineers in Japan borrowed a trick from radar to measure the Doppler shift at every point of an ultrasound picture at once, and painted it on the screen: red for flow towards the probe, blue for flow away.",
+      "why": "Colour Doppler made blood flow something you can see in real time.",
+      "box": "echo",
+      "sources": [
+        27,
+        17
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "October 1995",
+      "era": "today",
+      "art": "earth",
+      "key": true,
+      "title": "A wobbling star gives away a planet",
+      "who": "Michel Mayor and Didier Queloz",
+      "where": "Haute-Provence Observatory",
+      "country": "France",
+      "text": "The star 51 Pegasi was sliding towards and away from us at about 56 m/s every 4.2 days. Something as heavy as half a Jupiter had to be swinging it round. It was the first planet found around a Sun-like star, and it earned its discoverers a share of the 2019 Nobel Prize in Physics.",
+      "why": "The Doppler wobble has since revealed more than a thousand planets.",
+      "box": "sky",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 2002,
+      "date": "21 February 2002",
+      "era": "today",
+      "art": "compass",
+      "key": true,
+      "title": "India's first Doppler weather radar",
+      "who": "India Meteorological Department",
+      "where": "Chennai, Tamil Nadu",
+      "country": "India",
+      "text": "A new S-band Doppler radar on the Port Trust building at Chennai replaced an older cyclone radar and began work on 21 February 2002. It could watch rain bands and winds in the Bay of Bengal out to hundreds of kilometres. Dozens more have followed across the country.",
+      "why": "It brought wind measurements inside cyclones and thunderstorms to India's forecasters.",
+      "box": "sky",
+      "sources": [
+        25,
+        19
+      ]
+    },
+    {
+      "year": 2003,
+      "date": "22 February 2003",
+      "era": "today",
+      "art": "trophy",
+      "key": false,
+      "title": "161.3 km/h on the speed gun",
+      "who": "Shoaib Akhtar",
+      "where": "Newlands, Cape Town",
+      "country": "South Africa",
+      "text": "In a World Cup match against England, a ball from Pakistan's Shoaib Akhtar was clocked by radar at 161.3 km/h, 100.2 mph. It is listed as the fastest delivery ever measured, though the ICC says speed guns differ too much from ground to ground for an official record.",
+      "why": "It is the most famous number a Doppler radar has ever produced in sport.",
+      "box": "echo",
+      "sources": [
+        26,
+        16
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First statement of the effect",
+      "value": "1842",
+      "who": "Christian Doppler, Prague"
+    },
+    {
+      "label": "First experimental test",
+      "value": "1845",
+      "who": "C. H. D. Buys Ballot, with horn players on a train near Utrecht"
+    },
+    {
+      "label": "First Doppler speed of a galaxy",
+      "value": "1912",
+      "who": "Vesto Slipher: Andromeda, approaching at about 300 km/s"
+    },
+    {
+      "label": "First speeding tickets from radar",
+      "value": "1949",
+      "who": "Connecticut State Police, with Barker and Midlock's radar"
+    },
+    {
+      "label": "First Doppler ultrasound of the heart",
+      "value": "1955",
+      "who": "Shigeo Satomura, Osaka University"
+    },
+    {
+      "label": "First planet found by a star's Doppler wobble",
+      "value": "1995",
+      "who": "Michel Mayor and Didier Queloz: 51 Pegasi b"
+    }
+  ],
+  "people": [
+    {
+      "name": "Christian Doppler",
+      "life": "1803 – 1853",
+      "role": "Mathematician and physicist",
+      "from": "Austria",
+      "note": "Stated the principle in Prague in 1842, and later taught physics in Vienna."
+    },
+    {
+      "name": "C. H. D. Buys Ballot",
+      "life": "1817 – 1890",
+      "role": "Meteorologist and physicist",
+      "from": "Netherlands",
+      "note": "Set out to disprove Doppler with a train of horn players, and confirmed him instead. He later founded the Dutch weather service."
+    },
+    {
+      "name": "Hippolyte Fizeau",
+      "life": "1819 – 1896",
+      "role": "Physicist",
+      "from": "France",
+      "note": "Saw that the effect would shift the lines in a star's spectrum, the key to using it in astronomy."
+    },
+    {
+      "name": "William Huggins",
+      "life": "1824 – 1910",
+      "role": "Astronomer",
+      "from": "England",
+      "note": "Made the first attempt to measure a star's speed from its spectrum, in 1868."
+    },
+    {
+      "name": "Ernst Mach",
+      "life": "1838 – 1916",
+      "role": "Physicist and philosopher",
+      "from": "Austria",
+      "note": "Photographed the shock wave of a supersonic bullet. The Mach number is named after him."
+    },
+    {
+      "name": "Vesto Slipher",
+      "life": "1875 – 1969",
+      "role": "Astronomer",
+      "from": "United States",
+      "note": "Measured the first Doppler shifts of galaxies and found that most are moving away."
+    },
+    {
+      "name": "Henrietta Swan Leavitt",
+      "life": "1868 – 1921",
+      "role": "Astronomer",
+      "from": "United States",
+      "note": "Found the rule for variable stars that let Hubble measure the distances he set against Slipher's redshifts."
+    },
+    {
+      "name": "Georges Lemaître",
+      "life": "1894 – 1966",
+      "role": "Priest and cosmologist",
+      "from": "Belgium",
+      "note": "Derived the law of the expanding universe in 1927, two years before Hubble."
+    },
+    {
+      "name": "Edwin Hubble",
+      "life": "1889 – 1953",
+      "role": "Astronomer",
+      "from": "United States",
+      "note": "Showed in 1929 that a galaxy's speed of recession grows with its distance."
+    },
+    {
+      "name": "Shigeo Satomura",
+      "life": "1919 – 1960",
+      "role": "Physicist",
+      "from": "Japan",
+      "note": "Brought the Doppler effect into medicine by detecting moving heart walls and flowing blood with ultrasound."
+    }
+  ],
+  "series": [
+    {
+      "id": "hubble",
+      "title": "Measured values of the Hubble constant",
+      "unit": "km/s per megaparsec",
+      "log": false,
+      "after": "stars",
+      "caption": "Hubble's first estimate was about seven times too high because his distances were too small. Modern measurements cluster near 70 but still disagree slightly.",
+      "points": [
+        {
+          "year": 1929,
+          "value": 500,
+          "label": "Hubble's first estimate: about 500"
+        },
+        {
+          "year": 2018,
+          "value": 67.4,
+          "label": "Planck satellite, from the cosmic microwave background: 67.4"
+        },
+        {
+          "year": 2022,
+          "value": 73,
+          "label": "Hubble Space Telescope distance ladder: about 73"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Buys Ballot set out to prove Doppler wrong. His own experiment proved him right.",
+    "Doppler's paper was about the colours of double stars, and on that point it was mistaken. The principle behind it was correct.",
+    "In 2018 members of the International Astronomical Union voted, 78% in favour, to recommend calling Hubble's law the Hubble–Lemaître law.",
+    "Horseshoe bats lower the pitch of their calls as they fly so that the Doppler-shifted echo always returns at the frequency their ears hear best, about 83 kHz in the greater horseshoe bat.",
+    "The Doppler shift from blood flow in an ultrasound scan falls in the range of human hearing, so the machine can play it as a whooshing sound."
+  ],
+  "sources": [
+    {
+      "title": "Doppler effect",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doppler_effect"
+    },
+    {
+      "title": "Christian Doppler",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Christian_Doppler"
+    },
+    {
+      "title": "C. H. D. Buys Ballot",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/C._H._D._Buys_Ballot"
+    },
+    {
+      "title": "Doppler-experiment Buys Ballot 160 jaar geleden",
+      "publisher": "KNMI (Royal Netherlands Meteorological Institute)",
+      "url": "https://www.knmi.nl/over-het-knmi/nieuws/doppler-experiment-buys-ballot-160-jaar-geleden"
+    },
+    {
+      "title": "Christophorus Buys Ballot: the Doppler effect wall formula",
+      "publisher": "Utrecht University",
+      "url": "https://muurformules.sites.uu.nl/mural-paintings/christophorus-buys-ballot/?lang=en"
+    },
+    {
+      "title": "Hippolyte Fizeau",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hippolyte_Fizeau"
+    },
+    {
+      "title": "Redshift",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Redshift"
+    },
+    {
+      "title": "William Huggins",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/William-Huggins"
+    },
+    {
+      "title": "Mach number",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mach_number"
+    },
+    {
+      "title": "Ernst Mach and Peter Salcher photograph a supersonic bullet",
+      "publisher": "History of Information",
+      "url": "https://historyofinformation.com/detail.php?id=3262"
+    },
+    {
+      "title": "Aristarkh Belopolsky",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aristarkh_Belopolsky"
+    },
+    {
+      "title": "The Contribution of V. M. Slipher to the Discovery of the Expanding Universe",
+      "publisher": "arXiv (C. O'Raifeartaigh, 2012)",
+      "url": "https://arxiv.org/abs/1212.5499"
+    },
+    {
+      "title": "Hubble's law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hubble%27s_law"
+    },
+    {
+      "title": "IAU members vote to recommend renaming the Hubble law as the Hubble–Lemaître law",
+      "publisher": "International Astronomical Union",
+      "url": "https://iau.org/news/pressreleases/detail/iau1812"
+    },
+    {
+      "title": "Ives–Stilwell experiment",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ives%E2%80%93Stilwell_experiment"
+    },
+    {
+      "title": "Sonic boom",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sonic_boom"
+    },
+    {
+      "title": "Radar speed gun",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Radar_speed_gun"
+    },
+    {
+      "title": "Shigeo Satomura",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shigeo_Satomura"
+    },
+    {
+      "title": "Transit (satellite)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transit_(satellite)"
+    },
+    {
+      "title": "Weather radar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Weather_radar"
+    },
+    {
+      "title": "NEXRAD",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/NEXRAD"
+    },
+    {
+      "title": "Doppler cooling",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doppler_cooling"
+    },
+    {
+      "title": "The Nobel Prize in Physics 1997",
+      "publisher": "Nobel Prize Outreach",
+      "url": "https://www.nobelprize.org/prizes/physics/1997/summary/"
+    },
+    {
+      "title": "Doppler spectroscopy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doppler_spectroscopy"
+    },
+    {
+      "title": "The Nobel Prize in Physics 2019",
+      "publisher": "Nobel Prize Outreach",
+      "url": "https://www.nobelprize.org/prizes/physics/2019/summary/"
+    },
+    {
+      "title": "An overview of first Doppler Weather Radar inducted in the cyclone detection network of India Meteorological Department",
+      "publisher": "Mausam (India Meteorological Department)",
+      "url": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/963"
+    },
+    {
+      "title": "Fastest delivery of a cricket ball (male)",
+      "publisher": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/fastest-bowl-of-a-cricket-ball"
+    },
+    {
+      "title": "Doppler ultrasonography",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doppler_ultrasonography"
+    },
+    {
+      "title": "Overcoming naive mental models in explaining the Doppler shift: an illusion creates confusion (Neuhoff and McBeath)",
+      "publisher": "American Journal of Physics, via Arizona State University",
+      "url": "https://www.public.asu.edu/~mmcbeath/mcbeath.research/pdf/AJP000618.pdf"
+    },
+    {
+      "title": "Doppler shift compensation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doppler_shift_compensation"
+    },
+    {
+      "title": "Bell X-1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bell_X-1"
+    },
+    {
+      "title": "Slipher, Vesto Melvin",
+      "publisher": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/people/science-and-technology/astronomy-biographies/vesto-melvin-slipher"
+    }
+  ]
+}

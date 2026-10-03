@@ -1,0 +1,169 @@
+{
+  "slug": "dopplerclear",
+  "kind": "principle",
+  "box": 30,
+  "date": "2026-10-03",
+  "title": "The Doppler effect",
+  "question": "What is the Doppler effect?",
+  "principle": {
+    "type": "principle",
+    "name": "The Doppler effect",
+    "formula": "f′ = f × (v ± vₒ) ÷ (v ∓ vₛ)",
+    "formulaNote": "frequency heard = frequency sent × (wave speed + listener's speed towards the source) ÷ (wave speed − source's speed towards the listener). Moving apart, both signs flip. For an echo off a moving target the shift is about 2 × f × v ÷ c.",
+    "idea": "When a source of waves and whoever receives them are getting closer, the waves arrive bunched up and the frequency received is higher. When they are moving apart, the waves arrive stretched out and it is lower. That is why a siren drops in pitch as it passes, and how radar, ultrasound and telescopes measure speed.",
+    "discovered": "1842 · Christian Doppler, Prague. Tested with horn players on a moving train by C. H. D. Buys Ballot in the Netherlands, 1845",
+    "art": "soundwave",
+    "appliesTo": [
+      "waveclear",
+      "filmsoundclear",
+      "stormclear",
+      "cycloneclear",
+      "tornadoclear",
+      "cloudburstclear",
+      "circulationclear"
+    ],
+    "examples": [
+      {
+        "title": "A siren or train horn going past",
+        "text": "A 400 Hz horn on a train at 110 km/h is heard at about 439 Hz as it comes and 367 Hz as it goes, a drop of about three semitones. It slides smoothly because only the speed along the line to your ear counts."
+      },
+      {
+        "title": "The pass-by in a film",
+        "text": "Sound designers bend the pitch of a spaceship or racing car as it crosses the screen, using f′ = f ÷ (1 − (v ÷ c) cos θ), so that your ears believe it is moving.",
+        "box": "filmsoundclear"
+      },
+      {
+        "title": "A sonic boom",
+        "text": "Sound travels at about 343 m/s whatever its source does. A jet faster than that leaves its own wavefronts behind, and they pile into a cone with sin μ = 1 ÷ Mach number. When the cone sweeps over you, you hear a boom.",
+        "box": "waveclear"
+      },
+      {
+        "title": "The speed gun at a cricket match",
+        "text": "A radar gun bounces 24 GHz microwaves off the ball. A 145 km/h delivery shifts the echo by about 6,500 Hz, and Δf = 2 f v ÷ c turns that back into the speed on the screen."
+      },
+      {
+        "title": "Wind inside a thunderstorm",
+        "text": "A Doppler weather radar measures how fast raindrops move towards or away from it, so forecasters can see the winds and gust fronts inside a storm, not just where it is raining.",
+        "box": "stormclear"
+      },
+      {
+        "title": "Tracking a cyclone from the coast",
+        "text": "India's first Doppler weather radar began work at Chennai in 2002. Once a cyclone is within a few hundred kilometres, coastal radars map its rain bands and the winds in them.",
+        "box": "cycloneclear"
+      },
+      {
+        "title": "Rotation before a tornado",
+        "text": "On the radar's velocity map, strong “towards” right beside strong “away” means the air between them is spinning: the sign forecasters watch for in a tornado-bearing storm.",
+        "box": "tornadoclear"
+      },
+      {
+        "title": "Catching a cloudburst",
+        "text": "A cloudburst is a few kilometres wide and can slip between rain gauges. A Doppler radar sweeps the sky every few minutes and sees the storm and its motion wherever it forms.",
+        "box": "cloudburstclear"
+      },
+      {
+        "title": "Blood flowing in an artery",
+        "text": "Doppler ultrasound sends sound at a few megahertz into the body. Moving red blood cells send it back shifted by Δf = 2 f v cos θ ÷ c, a few thousand hertz, which the scanner turns into the speed and direction of flow.",
+        "box": "circulationclear"
+      },
+      {
+        "title": "Planets and galaxies",
+        "text": "A planet makes its star wobble: 51 Pegasi slides to and fro at 56 m/s, shifting its spectral lines by one part in five million. Distant galaxies are redshifted in proportion to their distance, v = H₀ × d: the sign of an expanding universe."
+      }
+    ]
+  },
+  "hook": "Why does a siren drop in pitch as it passes? Watch each sound wave spread from where the source was, hear the pitch slide as a train goes by, clock a cricket ball with radar, find the wind inside a storm, and push a jet through the sound barrier.",
+  "thumbText": "THE DOPPLER EFFECT",
+  "field": "physics",
+  "minutes": 14,
+  "tags": [
+    "doppler effect",
+    "waves",
+    "sound",
+    "frequency",
+    "pitch",
+    "radar",
+    "ultrasound",
+    "redshift",
+    "sonic boom",
+    "mach number",
+    "hubble's law",
+    "physics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A moving source squeezes its waves",
+      "text": "Every crest spreads from where the source was when it made it, at the wave's own speed. A moving source starts each crest closer to the last, so crests bunch up ahead and stretch out behind: f′ = f × (v + vₒ) ÷ (v − vₛ)."
+    },
+    {
+      "title": "Why the pitch slides as it passes",
+      "text": "A horn at 110 km/h is heard at 439 Hz coming and 367 Hz going. Only the speed along the line to your ear counts, so the pitch slides through the true note as the train comes level. Nearer the track, the slide is quicker."
+    },
+    {
+      "title": "An echo is a speedometer",
+      "text": "Bounce a wave off something moving and the echo is shifted twice: Δf = 2 f v ÷ c. A radar gun clocks a cricket ball this way, and Doppler ultrasound measures how fast blood flows and in which direction."
+    },
+    {
+      "title": "Reading the sky",
+      "text": "Weather radar maps the wind inside storms in green and red. Shifted lines in starlight reveal a star wobbling at 56 m/s as a planet swings it, and galaxies receding faster the farther they are: v = H₀ × d."
+    },
+    {
+      "title": "Where it breaks, and three myths",
+      "text": "At Mach 1 the formula divides by zero and the waves pile into a shock cone, heard as a sonic boom all along the flight path. Light follows a relativistic rule. And an approaching siren's pitch is steady: only its loudness rises."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Doppler effect",
+      "def": "The change in received frequency when a wave's source and receiver are getting closer or farther apart."
+    },
+    {
+      "term": "Wavefront",
+      "def": "A crest spreading out from where the source was when it was emitted, at the wave speed of the medium."
+    },
+    {
+      "term": "Radial velocity",
+      "def": "The part of a speed that points straight towards or away from the observer. Only this part causes a Doppler shift."
+    },
+    {
+      "term": "Doppler shift (Δf)",
+      "def": "The difference between the frequency sent and the frequency received. For an echo it is about 2 f v ÷ c."
+    },
+    {
+      "term": "Redshift and blueshift",
+      "def": "Light stretched to longer wavelengths by motion away, or squeezed to shorter ones by motion towards."
+    },
+    {
+      "term": "Mach number",
+      "def": "Speed divided by the speed of sound. Above Mach 1 the wavefronts form a cone with sin μ = 1 ÷ M."
+    },
+    {
+      "term": "Sonic boom",
+      "def": "The bang heard when the shock cone of a supersonic object sweeps past."
+    },
+    {
+      "term": "Hubble's law",
+      "def": "The farther away a galaxy is, the faster it recedes: v = H₀ × d."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "dopplerclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

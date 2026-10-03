@@ -1,0 +1,126 @@
+{
+  "slug": "dopplerclear",
+  "box": 30,
+  "question": "What is the Doppler effect?",
+  "url": "https://glassbox.how/e/dopplerclear/",
+  "app": "https://glassbox.how/dopplerclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From horn players on a Dutch train in 1845 to weather radar, heart scans and the discovery that the universe is expanding.\n\n1842: A professor wonders why stars have colours\n1845: Horn players on a train test it\n1868: The first speed of a star\n1887: A bullet's shock wave is photographed\n1912: Andromeda is rushing towards us\n1929: The farther, the faster\n\nThe full story, with 19 moments, sources and charts: glassbox.how/e/dopplerclear/history (link in bio)\n\nThen play with how it works: glassbox.how/dopplerclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #dopplereffect #waves #sound #frequency #pitch #radar #history",
+      "youtube": {
+        "title": "The history of the Doppler effect in 45 seconds #shorts",
+        "description": "From horn players on a Dutch train in 1845 to weather radar, heart scans and the discovery that the universe is expanding.\n\n1842 · A professor wonders why stars have colours (Christian Doppler)\n1845 · Horn players on a train test it (C. H. D. Buys Ballot)\n1868 · The first speed of a star (William Huggins)\n1887 · A bullet's shock wave is photographed (Ernst Mach and Peter Salcher)\n1912 · Andromeda is rushing towards us (Vesto Slipher)\n1929 · The farther, the faster (Georges Lemaître and Edwin Hubble)\n\n▶ Full history: https://glassbox.how/e/dopplerclear/history/\n▶ Play with it: https://glassbox.how/e/dopplerclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "What is the Doppler effect?\n\nWhy does a siren drop in pitch as it passes? Watch each sound wave spread from where the source was, hear the pitch slide as a train goes by, clock a cricket ball with radar, find the wind inside a storm, and push a jet through the sound barrier.\n\n→ Every sound wave spreads from where the siren was, so a moving siren bunches its waves ahead.\n→ Bunched waves arrive more often, so you hear a higher pitch. Behind, they stretch and the pitch drops.\n→ A passing train’s horn slides down in pitch. It slides, not jumps, because the train does not run through you.\n→ Drive past a still horn and it drops too, by a slightly different amount: in air it matters who moves.\n→ A radar gun bounces microwaves off a cricket ball. The echo comes back squeezed: Δf = 2 f₀ v ÷ c.\n\nPlay with it yourself. It's free and open source: glassbox.how/dopplerclear (link in bio)\n\nBox No. L30 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #dopplereffect #waves #sound #frequency #pitch #radar #ultrasound #redshift #sonicboom",
+    "carousel": "Swipe through: What is the Doppler effect?\n\nWhy does a siren drop in pitch as it passes? Watch each sound wave spread from where the source was, hear the pitch slide as a train goes by, clock a cricket ball with radar, find the wind inside a storm, and push a jet through the sound barrier.\n\nSave this for later, then play with the interactive version at glassbox.how/dopplerclear (link in bio).\n\nBox No. L30 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #dopplereffect #waves #sound #frequency #pitch #radar",
+    "youtube": {
+      "title": "What is the Doppler effect? #shorts",
+      "description": "Why does a siren drop in pitch as it passes? Watch each sound wave spread from where the source was, hear the pitch slide as a train goes by, clock a cricket ball with radar, find the wind inside a storm, and push a jet through the sound barrier.\n\n▶ Play with it: https://glassbox.how/e/dopplerclear/\n⌘ Source code (MIT): https://github.com/bdeeps/dopplerclear\n\nBox No. L30 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "What is the Doppler effect? (interactive explainer)",
+      "description": "Why does a siren drop in pitch as it passes? Watch each sound wave spread from where the source was, hear the pitch slide as a train goes by, clock a cricket ball with radar, find the wind inside a storm, and push a jet through the sound barrier.\n\n▶ Play with the interactive version: https://glassbox.how/e/dopplerclear/\n⌘ Source code (MIT): https://github.com/bdeeps/dopplerclear\n\nIn this video:\n• A moving source squeezes its waves. Every crest spreads from where the source was when it made it, at the wave's own speed.\n• Why the pitch slides as it passes. A horn at 110 km/h is heard at 439 Hz coming and 367 Hz going.\n• An echo is a speedometer. Bounce a wave off something moving and the echo is shifted twice: Δf = 2 f v ÷ c.\n• Reading the sky. Weather radar maps the wind inside storms in green and red.\n• Where it breaks, and three myths. At Mach 1 the formula divides by zero and the waves pile into a shock cone, heard as a sonic boom all along the flight path.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "What is the Doppler effect?\n\nWhy does a siren drop in pitch as it passes?\n\nPlay with it: https://glassbox.how/e/dopplerclear/",
+    "linkedin": "What is the Doppler effect?\n\nWhy does a siren drop in pitch as it passes? Watch each sound wave spread from where the source was, hear the pitch slide as a train goes by, clock a cricket ball with radar, find the wind inside a storm, and push a jet through the sound barrier.\n\n1. A moving source squeezes its waves\n2. Why the pitch slides as it passes\n3. An echo is a speedometer\n4. Reading the sky\n5. Where it breaks, and three myths\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. L30 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/dopplerclear/\nCode: https://github.com/bdeeps/dopplerclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-03T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-03T11:46:39.996Z"
+}
